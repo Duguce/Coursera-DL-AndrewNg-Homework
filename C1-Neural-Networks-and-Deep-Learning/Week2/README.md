@@ -1,4 +1,7 @@
-# 作业实现：神经网络的编程基础(Basics of Neural Network  programming)
+# Week2: Basics of Neural Network  programming
+
+作业实现：神经网络的编程基础
+
 | 序号 |  项目名称  |          备注           |
 | :--: | :--------: | :---------------------: |
 |  1   |  datasets  |    原始数据集文件夹     |
