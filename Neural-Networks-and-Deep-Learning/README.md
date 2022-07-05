@@ -1,4 +1,4 @@
-# C1-Neural-Networks-and-Deep-Learning
+# Neural-Networks-and-Deep-Learning
 作业实现：神经网络与深度学习部分
 
 | 序号 | 项目名称 |                           备注                            |
