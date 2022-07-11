@@ -4,8 +4,9 @@
 | 序号 |             项目名称              |              备注               |
 | :--: | :-------------------------------: | :-----------------------------: |
 |  1   | Neural-Networks-and-Deep-Learning | 神经网络与深度学习部分 作业实现 |
-|  2   |             Handouts              |      吴恩达深度学习课程PPT      |
-|  3   | Deeplearning深度学习笔记v5.72.pdf |            课程笔记             |
+|  2   |  Improving-Deep-Neural-Networks   |  改善深层神经网络部分 作业实现  |
+|  3   |             Handouts              |      吴恩达深度学习课程PPT      |
+|  4   | Deeplearning深度学习笔记v5.72.pdf |            课程笔记             |
 
 注：编程实现基于Python3.7（ipynb版 或 py版）
 
