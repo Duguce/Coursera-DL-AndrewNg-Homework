@@ -1,6 +1,6 @@
-# Week3: Deep Neural Networks
+# Week1: Improving Deep Neural Networks:Hyperparameter tuning, Regularization and Optimization
 
-作业实现：深层神经网络
+作业实现：改善深层神经网络：超参数调试、正则化以及优化
 
 | 序号 |  项目名称   |           备注           |
 | :--: | :---------: | :----------------------: |
