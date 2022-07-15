@@ -13,3 +13,20 @@
 **吴恩达《深度学习》课程**
 
 课程地址：https://www.coursera.org/deeplearning-ai
+
+
+
+
+
+## 作业清单
+
+- [神经网络和深度学习(Neural  Networks and Deep Learning)](https://github.com/Duguce/Coursera-DL-AndrewNg-Homework/tree/main/Neural-Networks-and-Deep-Learning)
+  - [Week1 深度学习引言(Introduction to Deep Learning)](https://github.com/Duguce/Coursera-DL-AndrewNg-Homework/tree/main/Neural-Networks-and-Deep-Learning/Week1)
+  - [Week2 神经网络的编程基础(Basics of Neural Network  programming)](https://github.com/Duguce/Coursera-DL-AndrewNg-Homework/tree/main/Neural-Networks-and-Deep-Learning/Week2)
+  - [Week3 浅层神经网络(Shallow neural networks)](https://github.com/Duguce/Coursera-DL-AndrewNg-Homework/tree/main/Neural-Networks-and-Deep-Learning/Week3)
+  - [Week4 深层神经网络(Deep Neural Networks)](https://github.com/Duguce/Coursera-DL-AndrewNg-Homework/tree/main/Neural-Networks-and-Deep-Learning/Week4)
+- [改善深层神经网络：超参数调试、 正则化以及优化(Improving Deep Neural  Networks:Hyperparameter tuning,  Regularization and Optimization)](https://github.com/Duguce/Coursera-DL-AndrewNg-Homework/tree/main/Improving-Deep-Neural-Networks)
+  - [Week1 深度学习的实践层面(Practical aspects of Deep  Learning)](https://github.com/Duguce/Coursera-DL-AndrewNg-Homework/tree/main/Improving-Deep-Neural-Networks/Week1)
+  - [Week2 优化算法 (Optimization algorithms)](https://github.com/Duguce/Coursera-DL-AndrewNg-Homework/tree/main/Improving-Deep-Neural-Networks/Week2)
+  - [Week3 超参数调试、Batch 正则化和程序框架(Hyperparameter tuning)](https://github.com/Duguce/Coursera-DL-AndrewNg-Homework/tree/main/Improving-Deep-Neural-Networks/Week3)
+

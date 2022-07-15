@@ -123,7 +123,7 @@ a3 /= keep-prob
 
 - Adam 优化算法是将Momentum和RMSprop算法相结合；
 
-## 1.3. 超 参 数 调 试 、 Batch 正 则 化 和 程 序 框 架（Hyperparameter tuning）
+## 1.3. 超 参 数 调 试 、 Batch 正 则 化 和 程 序 框 架
 
 ### 1.3.1. 调试处理（Tuning process）
 
