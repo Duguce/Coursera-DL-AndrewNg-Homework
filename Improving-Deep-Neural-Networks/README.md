@@ -9,6 +9,8 @@
 
 
 
+
+
 ------
 
 <!-- TOC -->
@@ -21,6 +23,14 @@
     - [1.1.4. 归一化输入（Normalizing inputs）](#114-归一化输入normalizing-inputs)
     - [1.1.5. 梯度消失/梯度爆炸（Vanishing / Exploding gradients）](#115-梯度消失梯度爆炸vanishing--exploding-gradients)
     - [1.1.6. 神经网络的权重初始化（Weight Initialization for Deep Networks）](#116-神经网络的权重初始化weight-initialization-for-deep-networks)
+  - [1.2. 优化算法](#12-优化算法)
+    - [1.2.1. Mini-batch 梯度下降（Mini-batch gradient descent）](#121-mini-batch-梯度下降mini-batch-gradient-descent)
+    - [1.2.2. 动量梯度下降法（Gradient descent with Momentum）](#122-动量梯度下降法gradient-descent-with-momentum)
+    - [1.2.3.Adam 优化算法（Adam optimization algorithm）](#123adam-优化算法adam-optimization-algorithm)
+  - [1.3. 超 参 数 调 试 、 Batch 正 则 化 和 程 序 框 架（Hyperparameter tuning）](#13-超-参-数-调-试--batch-正-则-化-和-程-序-框-架hyperparameter-tuning)
+    - [1.3.1. 调试处理（Tuning process）](#131-调试处理tuning-process)
+    - [1.3.2. 将 Batch Norm 拟合进神经网络（Fitting Batch Norm into a neural network）](#132-将-batch-norm-拟合进神经网络fitting-batch-norm-into-a-neural-network)
+    - [1.3.3. Softmax 回归（Softmax regression）](#133-softmax-回归softmax-regression)
 
 <!-- /TOC -->
 
@@ -88,6 +98,47 @@ a3 /= keep-prob
 ### 1.1.6. 神经网络的权重初始化（Weight Initialization for Deep Networks）
 
 🌱 **关键点：**
-$$
-w^{[l]}= np.random.randn(shape) * np.sqrt(\frac{1}{n^{[l-1]}})
-$$
+
+![权重初始化公式](https://latex.codecogs.com/svg.image?w^{[l]}=&space;np.random.randn(shape)&space;*&space;np.sqrt(\frac{1}{n^{[l-1]}}))
+
+## 1.2. 优化算法
+
+### 1.2.1. Mini-batch 梯度下降（Mini-batch gradient descent）
+
+🌱 **关键点：**
+
+- 把训练集分割为小一点的子集训练，这些子集被取名为 mini-batch；
+- mini-batch梯度下降法比batch梯度下降法运行地更快；
+- 随机梯度下降法的一大缺点是，你会失去所有向量化带给你的加速，因为一次性只处理了一个训练样本，这样效率过于低下，所以实践中最好选择不大不小的 mini-batch 尺寸，实际上学习率达到最快；
+
+### 1.2.2. 动量梯度下降法（Gradient descent with Momentum）
+
+🌱 **关键点：**
+
+- 动量梯度下降法可以加快梯度下降，简而言之，基本思想就是计算梯度的指数加权平均数，并利用该梯度更新权重；
+
+### 1.2.3.Adam 优化算法（Adam optimization algorithm）
+
+🌱 **关键点：**
+
+- Adam 优化算法是将Momentum和RMSprop算法相结合；
+
+## 1.3. 超 参 数 调 试 、 Batch 正 则 化 和 程 序 框 架（Hyperparameter tuning）
+
+### 1.3.1. 调试处理（Tuning process）
+
+🌱 **关键点：**
+
+- 超参数调试值选择方法：随机选点法和由粗糙到精细的策略；
+
+### 1.3.2. 将 Batch Norm 拟合进神经网络（Fitting Batch Norm into a neural network）
+
+🌱 **关键点：**
+
+- Batch正则化
+
+### 1.3.3. Softmax 回归（Softmax regression）
+
+🌱 **关键点：**
+
+- Softmax
