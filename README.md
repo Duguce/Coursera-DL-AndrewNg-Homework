@@ -1,12 +1,13 @@
 # Coursera-DL-AndrewNg-Homework
 吴恩达《深度学习》课程作业实现及课件笔记资料
 
-| 序号 |             项目名称              |              备注               |
-| :--: | :-------------------------------: | :-----------------------------: |
-|  1   | Neural-Networks-and-Deep-Learning | 神经网络与深度学习部分 作业实现 |
-|  2   |  Improving-Deep-Neural-Networks   |  改善深层神经网络部分 作业实现  |
-|  3   |             Handouts              |      吴恩达深度学习课程PPT      |
-|  4   | Deeplearning深度学习笔记v5.72.pdf |            课程笔记             |
+| 序号 |               项目名称                |              备注               |
+| :--: | :-----------------------------------: | :-----------------------------: |
+|  1   |   Neural-Networks-and-Deep-Learning   | 神经网络与深度学习部分 作业实现 |
+|  2   |    Improving-Deep-Neural-Networks     |  改善深层神经网络部分 作业实现  |
+|  3   | Structuring-Machine-Learning-Projects |       结构化机器学习项目        |
+|  4   |               Handouts                |      吴恩达深度学习课程PPT      |
+|  5   |   Deeplearning深度学习笔记v5.72.pdf   |            课程笔记             |
 
 注：编程实现基于Python3.7（ipynb版 或 py版）
 
