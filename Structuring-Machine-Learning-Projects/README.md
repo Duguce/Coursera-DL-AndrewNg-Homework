@@ -1,11 +1,6 @@
 # Structuring-Machine-Learning-Projects
 结构化机器学习项目
 
-| 序号 | 项目名称 |                 备注                  |
-| :--: | :------: | :-----------------------------------: |
-|  1   |  Week1   | 机器学习策略（1）（ML strategy（1）） |
-|  2   |  Week2   |  机器学习策略（2）(ML Strategy (2))   |
-
 
 
 

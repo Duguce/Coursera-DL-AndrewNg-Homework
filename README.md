@@ -30,4 +30,5 @@
   - [Week1 深度学习的实践层面(Practical aspects of Deep  Learning)](https://github.com/Duguce/Coursera-DL-AndrewNg-Homework/tree/main/Improving-Deep-Neural-Networks/Week1)
   - [Week2 优化算法(Optimization algorithms)](https://github.com/Duguce/Coursera-DL-AndrewNg-Homework/tree/main/Improving-Deep-Neural-Networks/Week2)
   - [Week3 超参数调试、Batch 正则化和程序框架(Hyperparameter tuning)](https://github.com/Duguce/Coursera-DL-AndrewNg-Homework/tree/main/Improving-Deep-Neural-Networks/Week3)
+- [结构化机器学习项目(Structuring Machine Learning Projects)](https://github.com/Duguce/Coursera-DL-AndrewNg-Homework/tree/main/Structuring-Machine-Learning-Projects)
 
